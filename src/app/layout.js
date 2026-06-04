@@ -4,13 +4,13 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin", "cyrillic"] });
 
 export const metadata = {
-  metadataBase: new URL("https://levostan.uz"),
-  title: "ЛЕВОСТАН — Левофлоксацин - 500 мг/100 мл",
+  metadataBase: new URL("https://vasorin.uz"),
+  title: "ВАСОРИН - Торговое название препарата",
   description:
-    "ЛЕВОСТАН — комбинированный растительный препарат для лечения заболеваний почек и мочевыводящих путей. Мочегонное, спазмолитическое, противовоспалительное действие. Производитель: Spring Pharmaceutic.",
+    "ВАСОРИН — комбинированный растительный препарат для лечения заболеваний почек и мочевыводящих путей. Мочегонное, спазмолитическое, противовоспалительное действие. Производитель: Spring Pharmaceutic.",
   keywords: [
-    "levostan",
-    "levostan таблетки",
+    "vasorin",
+    "vasorin таблетки",
     "урологический препарат",
     "лечение почек",
     "мочевыводящие пути",
@@ -20,7 +20,7 @@ export const metadata = {
     "Spring Pharmaceutic",
     "фитопрепарат",
     "мочекаменная болезнь",
-    "levostan",
+    "vasorin",
     "buyrak dorisi",
     "siydik yo'llari",
     "o'simlik preparati",
@@ -40,37 +40,37 @@ export const metadata = {
     google: "EeNrX_Vhd4bMEJnslGv6D89shImpFKT1eTXHeeqUF8I",
   },
   alternates: {
-    canonical: "https://levostan.uz",
+    canonical: "https://vasorin.uz",
   },
   openGraph: {
     type: "website",
-    url: "https://levostan.uz",
-    title: "ЛЕВОСТАН — Растительный урологический препарат",
+    url: "https://vasorin.uz",
+    title: "ВАСОРИН - Торговое название препарата",
     description:
       "Комбинированный растительный препарат для лечения заболеваний почек и мочевыводящих путей. Мочегонное, спазмолитическое, противовоспалительное действие.",
-    siteName: "ЛЕВОСТАН",
+    siteName: "ВАСОРИН",
     images: [
       {
-        url: "/levostan.webp",
+        url: "/vasorin.webp",
         width: 900,
         height: 800,
-        alt: "ЛЕВОСТАН",
+        alt: "ВАСОРИН",
       },
       {
-        url: "/levostan-logo.svg",
+        url: "/vasorin-logo.svg",
         width: 800,
         height: 600,
-        alt: "ЛЕВОСТАН логотип",
+        alt: "ВАСОРИН логотип",
       },
     ],
     locale: "ru_RU",
   },
   twitter: {
     card: "summary_large_image",
-    title: "МЕДИРЕН® — Растительный урологический препарат",
+    title: "ВАСОРИН - Торговое название препарата",
     description:
       "Комбинированный растительный препарат для лечения заболеваний почек и мочевыводящих путей.",
-    images: ["/levostan.webp"],
+    images: ["/vasorin.webp"],
   },
   other: {
     "telegram:channel": "@SpringPharmaceutic",
