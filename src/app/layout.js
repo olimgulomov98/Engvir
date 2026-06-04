@@ -4,13 +4,13 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin", "cyrillic"] });
 
 export const metadata = {
-  metadataBase: new URL("https://feramil.uz"),
-  title: "ФЕРАМИЛ - Торговое название препарата",
+  metadataBase: new URL("https://engvir.uz"),
+  title: "ЭНГВИР - Торговое название препарата",
   description:
-    "ФЕРАМИЛ — комбинированный растительный препарат для лечения заболеваний почек и мочевыводящих путей. Мочегонное, спазмолитическое, противовоспалительное действие. Производитель: Spring Pharmaceutic.",
+    "ЭНГВИР — комбинированный растительный препарат для лечения заболеваний почек и мочевыводящих путей. Мочегонное, спазмолитическое, противовоспалительное действие. Производитель: Spring Pharmaceutic.",
   keywords: [
-    "feramil",
-    "feramil таблетки",
+    "engvir",
+    "engvir таблетки",
     "урологический препарат",
     "лечение почек",
     "мочевыводящие пути",
@@ -20,7 +20,7 @@ export const metadata = {
     "Spring Pharmaceutic",
     "фитопрепарат",
     "мочекаменная болезнь",
-    "feramil",
+    "engvir",
     "buyrak dorisi",
     "siydik yo'llari",
     "o'simlik preparati",
@@ -40,37 +40,37 @@ export const metadata = {
     google: "EeNrX_Vhd4bMEJnslGv6D89shImpFKT1eTXHeeqUF8I",
   },
   alternates: {
-    canonical: "https://feramil.uz",
+    canonical: "https://engvir.uz",
   },
   openGraph: {
     type: "website",
-    url: "https://feramil.uz",
-    title: "ФЕРАМИЛ - Торговое название препарата",
+    url: "https://engvir.uz",
+    title: "ЭНГВИР - Торговое название препарата",
     description:
       "Комбинированный растительный препарат для лечения заболеваний почек и мочевыводящих путей. Мочегонное, спазмолитическое, противовоспалительное действие.",
-    siteName: "ФЕРАМИЛ",
+    siteName: "ЭНГВИР",
     images: [
       {
-        url: "/feramil.webp",
+        url: "/engvir.webp",
         width: 900,
         height: 800,
-        alt: "ФЕРАМИЛ",
+        alt: "ЭНГВИР",
       },
       {
-        url: "/feramil-logo.svg",
+        url: "/engvir-logo.svg",
         width: 800,
         height: 600,
-        alt: "ФЕРАМИЛ логотип",
+        alt: "ЭНГВИР логотип",
       },
     ],
     locale: "ru_RU",
   },
   twitter: {
     card: "summary_large_image",
-    title: "ФЕРАМИЛ - Торговое название препарата",
+    title: "ЭНГВИР - Торговое название препарата",
     description:
       "Комбинированный растительный препарат для лечения заболеваний почек и мочевыводящих путей.",
-    images: ["/feramil.webp"],
+    images: ["/engvir.webp"],
   },
   other: {
     "telegram:channel": "@SpringPharmaceutic",
