@@ -41,7 +41,7 @@ export const metadata = {
     },
   },
   verification: {
-    google: "EeNrX_Vhd4bMEJnslGv6D89shImpFKT1eTXHeeqUF8I",
+    google: "damr5dO7LoI_X_Q6Y9rFyrvjV8DB0LQSRLn8n3-z4wc",
   },
   alternates: {
     canonical: "https://engvir.uz",
