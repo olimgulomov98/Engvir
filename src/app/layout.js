@@ -5,25 +5,29 @@ const inter = Inter({ subsets: ["latin", "cyrillic"] });
 
 export const metadata = {
   metadataBase: new URL("https://engvir.uz"),
-  title: "ЭНГВИР - Торговое название препарата",
+  title: "ЭНГВИР® — энтекавир 0,5 мг таблетки | Лечение гепатита B | Best Med",
   description:
-    "ЭНГВИР — комбинированный растительный препарат для лечения заболеваний почек и мочевыводящих путей. Мочегонное, спазмолитическое, противовоспалительное действие. Производитель: Spring Pharmaceutic.",
+    "ЭНГВИР® (энтекавир) — противовирусный препарат для лечения хронического гепатита B. Таблетки, покрытые плёночной оболочкой, 0,5 мг №30. Производитель: Best Med.",
   keywords: [
+    "Энгвир",
+    "Энгвир таблетки",
+    "энтекавир",
+    "гепатит B лечение",
+    "хронический гепатит B",
+    "противовирусный препарат",
+    "энтекавир 0.5 мг",
+    "лечение печени",
+    "Best Med",
+    "препарат от гепатита",
+    "противогепатитный препарат",
     "engvir",
-    "engvir таблетки",
-    "урологический препарат",
-    "лечение почек",
-    "мочевыводящие пути",
-    "цистит лечение",
-    "пиелонефрит",
-    "растительный препарат",
-    "Spring Pharmaceutic",
-    "фитопрепарат",
-    "мочекаменная болезнь",
-    "engvir",
-    "buyrak dorisi",
-    "siydik yo'llari",
-    "o'simlik preparati",
+    "engvir tabletkalari",
+    "entekavir",
+    "gepatit B davolash",
+    "surunkali gepatit B",
+    "jigar dorisi",
+    "Best Med preparati",
+    "virus gepatit davolash",
   ],
   robots: {
     index: true,
@@ -45,9 +49,10 @@ export const metadata = {
   openGraph: {
     type: "website",
     url: "https://engvir.uz",
-    title: "ЭНГВИР - Торговое название препарата",
+    title:
+      "ЭНГВИР® — энтекавир 0,5 мг таблетки | Лечение гепатита B | Best Med",
     description:
-      "Комбинированный растительный препарат для лечения заболеваний почек и мочевыводящих путей. Мочегонное, спазмолитическое, противовоспалительное действие.",
+      "ЭНГВИР® (энтекавир) — противовирусный препарат для лечения хронического гепатита B. Таблетки, покрытые плёночной оболочкой, 0,5 мг №30. Производитель: Best Med.",
     siteName: "ЭНГВИР",
     images: [
       {
@@ -67,16 +72,17 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "ЭНГВИР - Торговое название препарата",
+    title:
+      "ЭНГВИР® — энтекавир 0,5 мг таблетки | Лечение гепатита B | Best Med",
     description:
-      "Комбинированный растительный препарат для лечения заболеваний почек и мочевыводящих путей.",
+      "ЭНГВИР® (энтекавир) — противовирусный препарат для лечения хронического гепатита B. Таблетки, покрытые плёночной оболочкой, 0,5 мг №30. Производитель: Best Med.",
     images: ["/engvir.webp"],
   },
-  other: {
-    "telegram:channel": "@SpringPharmaceutic",
-    "instagram:account": "@springpharmaceutic",
-    "article:publisher": "https://www.facebook.com/spring.pharm.3/",
-  },
+  // other: {
+  //   "telegram:channel": "@SpringPharmaceutic",
+  //   "instagram:account": "@springpharmaceutic",
+  //   "article:publisher": "https://www.facebook.com/spring.pharm.3/",
+  // },
 };
 
 export default function RootLayout({ children }) {

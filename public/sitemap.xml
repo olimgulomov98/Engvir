@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <url>
-        <loc>https://levostan.uz/</loc>
-        <lastmod>2026-02-12</lastmod>
+        <loc>https://engvir.uz/</loc>
+        <lastmod>2026-06-10</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
         <image:image>
-            <image:loc>https://levostan.uz/levostan.webp</image:loc>
-            <image:title>МЕДИРЕН® таблетки — растительный урологический препарат</image:title>
-            <image:caption>МЕДИРЕН® таблетки №60 — комбинированный растительный препарат для лечения заболеваний почек и мочевыводящих путей</image:caption>
+            <image:loc>https://engvir.uz/engvir.webp</image:loc>
+            <image:title>ЭНГВИР® таблетки 0,5 мг — энтекавир для лечения гепатита B</image:title>
+            <image:caption>ЭНГВИР® (энтекавир) таблетки, покрытые плёночной оболочкой, 0,5 мг №30 — противовирусный препарат для лечения хронического гепатита B</image:caption>
         </image:image>
         <image:image>
-            <image:loc>https://levostan.uz/levostan-logo.svg</image:loc>
-            <image:title>МЕДИРЕН логотип</image:title>
-            <image:caption>Логотип препарата МЕДИРЕН от Spring Pharmaceutic</image:caption>
+            <image:loc>https://engvir.uz/engvir-logo.svg</image:loc>
+            <image:title>ЭНГВИР логотип</image:title>
+            <image:caption>Логотип препарата ЭНГВИР® (энтекавир) от Best Med</image:caption>
         </image:image>
     </url>
     <url>
-        <loc>https://levostan.uz/instruction_ru.docx</loc>
-        <lastmod>2026-02-12</lastmod>
+        <loc>https://engvir.uz/instruction_ru.docx</loc>
+        <lastmod>2026-06-10</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.60</priority>
     </url>

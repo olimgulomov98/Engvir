@@ -3,15 +3,15 @@ const jsonLd = {
   "@type": "Product",
   name: "ЭНГВИР",
   description:
-    "Комбинированный растительный препарат для лечения заболеваний почек и мочевыводящих путей. Мочегонное, спазмолитическое, противовоспалительное, противомикробное действие.",
+    "ЭНГВИР® (энтекавир) — противовирусный препарат для лечения хронического гепатита B. Таблетки, покрытые плёночной оболочкой, 0,5 мг №30. Производитель: Best Med.",
   image: "https://engvir.uz/engvir.webp",
-  // brand: {
-  //   "@type": "Brand",
-  //   name: "Spring Pharmaceutic",
-  // },
+  brand: {
+    "@type": "Brand",
+    name: "Best Med",
+  },
   manufacturer: {
     "@type": "Organization",
-    // name: 'ООО "SPRING PHARMACEUTIC"',
+    name: 'ООО "Best Med"',
     // address: {
     //   "@type": "PostalAddress",
     //   addressCountry: "UZ",
@@ -27,7 +27,7 @@ const jsonLd = {
     //   "https://t.me/SpringPharmaceutic",
     // ],
   },
-  category: "Фитопрепараты, урология",
+  category: "Противовирусные препараты, гепатология",
   url: "https://engvir.uz",
 };
 
