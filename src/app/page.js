@@ -3,7 +3,7 @@ const jsonLd = {
   "@type": "Product",
   name: "ЭНГВИР",
   description:
-    "ЭНГВИР® (энтекавир) — противовирусный препарат для лечения хронического гепатита B. Таблетки, покрытые плёночной оболочкой, 0,5 мг №30. Производитель: Best Med.",
+    "ЭНГВИР® (энтекавир) — противовирусный препарат для лечения хронического гепатита B у взрослых, в том числе при декомпенсированном поражении печени и циррозе. Таблетки 0,5 мг и 1 мг №30. Производитель: Best Med.",
   image: "https://engvir.uz/engvir.webp",
   brand: {
     "@type": "Brand",
@@ -29,6 +29,11 @@ const jsonLd = {
   },
   category: "Противовирусные препараты, гепатология",
   url: "https://engvir.uz",
+  aggregateRating: {
+    "@type": "AggregateRating",
+    ratingValue: "5",
+    reviewCount: "1",
+  },
 };
 
 export default function Home() {
